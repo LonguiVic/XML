@@ -45,7 +45,7 @@
             </emit>
             <dest>
                 <CPF>10000000000</CPF>
-                <xNome>Lira da Hashtag</xNome>
+                <xNome>Anália dos Santos</xNome>
                 <enderDest>
                     <xLgr>Perdido no Espaco</xLgr>
                     <nro>0</nro>
@@ -506,10 +506,13 @@
                 </detPag>
             </pag>
             <infAdic>
-                <infCpl>Tributos aproximados: R$ 67,54 (Federal) e R$ 80,82 (Estadual). Fonte: IBPT BA21D5&lt;br /&gt;b.Box
-                    Led - horta inteligente com luz de led e irrigacao automatica&lt;br /&gt;Capsula 1: Tomilho Serpilho&lt;br
+                <infCpl>Tributos aproximados: R$ 67,54 (Federal) e R$ 80,82 (Estadual). Fonte: IBPT BA21D5&lt;br
+                    /&gt;b.Box
+                    Led - horta inteligente com luz de led e irrigacao automatica&lt;br /&gt;Capsula 1: Tomilho
+                    Serpilho&lt;br
                     /&gt;Capsula 2: Oregano Bravo-Europeu&lt;br /&gt;Capsula 3: Manjericao Italiano&lt;br /&gt;Capsula
-                    4: Coentro Portugues&lt;br /&gt;Capsula 5: Salsa Hortense&lt;br /&gt;Capsula 6: Alface Baby-Leaf&lt;br
+                    4: Coentro Portugues&lt;br /&gt;Capsula 5: Salsa Hortense&lt;br /&gt;Capsula 6: Alface
+                    Baby-Leaf&lt;br
                     /&gt;&lt;br /&gt;
                 </infCpl>
             </infAdic>
@@ -519,14 +522,14 @@
         </infNFe>
         <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
             <SignedInfo>
-                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
-                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
                 <Reference URI="#NFe3521000002195000279550010000028561543252336">
                     <Transforms>
-                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
-                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
                     </Transforms>
-                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
                     <DigestValue>YmPqwgaLfaaaMaafu3L8rLNhtAI=</DigestValue>
                 </Reference>
             </SignedInfo>
